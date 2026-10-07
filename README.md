@@ -1,4 +1,5 @@
-# VicioPixel
+## VicioPixel
+##### Rodri Lamora Fillat / Ángel Jubero Laguna - 07/10/2026
 
 ### PRODUCT BACKLOG 
 [Enlace directo](https://docs.google.com/spreadsheets/d/1v98x7kid_gejL9vXf-zer9yhrnLA2YFJfcSafnG3CY4/edit?usp=sharing)
